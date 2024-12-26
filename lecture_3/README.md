@@ -1,6 +1,6 @@
 # lection_3
 
-## 1. Для чего нужны key
+![image](https://github.com/user-attachments/assets/d8f5826e-b2c6-43c3-accb-edb90e9d03de)
 
-![alt text](assets/images/image.png)
-![alt text](assets/images/image-1.png)
+![image](https://github.com/user-attachments/assets/6c8f269a-7c6a-4965-a89e-046c87df2fe2)
+
